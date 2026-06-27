@@ -15,4 +15,4 @@ Idk, i was just bored. And proceed to make a joke OS.
 If you for some reason want to use my joke OS:
 1. Install python
 2. Open terminal and run it in mOSs directory
-3. Run python3.py
+3. Run python3 main.py
