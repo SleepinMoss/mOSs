@@ -7,7 +7,9 @@ Idk, i was just bored. And proceed to make a joke OS.
 ## Installation
 1. Click on the green button called "Code"
 2. Install it
-3. Idk, thats it maybe
+3. Download zip
+4. Extract it
+5. Idk, thats it maybe
 
 ## Usage
 If you for some reason wants to use my joke OS:
