@@ -2,21 +2,12 @@
 
 A fake operating system that tries way too hard to be an operating system.
 
+## Video
+https://youtu.be/2zNV-BQTRKc?si=D5at8Y-Hfg22I9Je
+
 ## Screenshot
 
-Boot
-
-<img width="707" height="466" alt="image" src="https://github.com/user-attachments/assets/ad92682f-9635-4b97-aea5-98dd391cde27" />
-
-
-Fastfetch
-
 <img width="707" height="466" alt="image" src="https://github.com/user-attachments/assets/5df18a37-e258-4cc1-bbc2-437db194f9b1" />
-
-
-Bad Apple
-
-<img width="707" height="466" alt="image" src="https://github.com/user-attachments/assets/70cdb0eb-172b-4ba9-af6a-74e3f31d1d73" />
 
 ## Why?
 
