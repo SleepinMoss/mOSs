@@ -39,9 +39,8 @@ One bad idea led to another, and somehow it became a fake operating system.
 Some available commands:
 
 - help
-- ls
-- cd
-- pkg
+- list
+- echo
 - clear
 - ...
 
