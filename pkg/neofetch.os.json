@@ -1,0 +1,15 @@
+{
+  "neofetch.os": [
+    "clear",
+    "echo             /\\          ================================",
+    "echo            /  \\",
+    "echo           /    \\        User      = Probably a human",
+    "echo          _\\     \\       OS        = mOSs 1.0",
+    "echo         /        \\      Shell     = mossyShell",
+    "echo        /          \\     CPU       = MossCore o6",
+    "echo       /     __   \\_\\    Memory    = 100 MB / 990000 MB",
+    "echo      /     /  \\     \\",
+    "echo     /__,--'    '--,__\\  ================================",
+    "echo  "
+  ]
+}
