@@ -1,0 +1,19 @@
+{
+    "fastfetch.os": [
+        "clear",
+        "echo ================================",
+        "echo        _____ _____",
+        "echo  _____|     |   __|___",
+        "echo |     |  |  |__   |_ -|",
+        "echo |_|_|_|_____|_____|___|",
+        "echo  ",
+        "echo User      = Probably a human",
+        "echo OS        = mOSs 1.0",
+        "echo Shell     = mossyShell",
+        "echo CPU       = MossCore o6",
+        "echo Memory    = 100 MB / 990000 MB",
+        "echo  ",
+        "echo ================================",
+        "echo  "
+    ]
+}
