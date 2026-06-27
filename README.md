@@ -20,24 +20,40 @@ Bad Apple
 
 ## Why?
 
-I was bored. Why not, heh?
+I was bored.
+
+One bad idea led to another, and somehow it became a fake operating system.
 
 ## Features
 
 - Terminal-like interface
-- Fastfetch and Bad Apple is by default in package repo
+- Built-in package repository (includes Fastfetch and Bad Apple)
 - Fake package manager
 - Custom `.os` programs
-- Can run `.py` script as a special package. Make sure you put the python file in /spkg
+- Supports special Python packages (`.py`) placed in `/spkg`
 - Custom file formats
 - And more things I forgot I added
 
 ### Commands
 
+Some available commands:
+
 - help
 - ls
 - cd
-- a lot more. Probably 'help' is enough for you
+- pkg
+- clear
+- ...
+
+Run `help` to see the full list.
+
+### Custom Formats
+
+mOSs comes with its own tiny ecosystem:
+
+- `.os` — executable programs
+- `.img` — image format
+- `.vid` — video format
 
 ## Installation
 
@@ -61,7 +77,9 @@ python3 main.py
 
 ## Disclaimer
 
-This is a python script. Not a real operating system. Please do not install it on your computer and expect Linux 2.0
+This is a Python script, not a real operating system.
+
+Please do not install it on your SSD expecting Linux 2.0.
 
 ## Why is it called mOSs?
 
